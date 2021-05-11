@@ -14,4 +14,22 @@ body {
 .aquamarine-link {
     color: aquamarine;
     font-size: 16px;
+    font-family: Verdana;
+}
+#footer {
+    color: gray;
+    text-align: right;
+}
+
+h2 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 52px;
+    color: white;
+}
+
+#pdesc {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
 }
